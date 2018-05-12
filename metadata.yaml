@@ -1,0 +1,36 @@
+_repo: Jimbo--A-Fantasy_30974
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blackwood, Algernon
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '1370'
+    url: http://www.gutenberg.org/2009/agents/1370
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Blackwood
+description: A seven-year-old boy suffers a near-fatal injury, after which he lingers
+  for days between life and death. In this liminal period, the young protagonist undergoes
+  a bizarre experience wherein he feels as if he has become untethered from his physical
+  body. Filled with both hopeful wonderment and bursts of sheer, unadulterated terror,
+  Jimbo is a strange and satisfying read that will stick with you long after you've
+  finished it.
+gutenberg_issued: '2010-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Boys -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Dreams -- Fiction'
+- !lcsh 'Imagination -- Fiction'
+- !lcsh 'Governesses -- Fiction'
+title: 'Jimbo: A Fantasy'
+url: http://www.gutenberg.org/ebooks/30974
